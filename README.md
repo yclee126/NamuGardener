@@ -17,6 +17,7 @@ CodeBlocks로 만들었습니다.
    * 양수는 '='갯수를 더해주고, 음수는 '='갯수를 덜어준다.
    * 0을 입력하면 추천 크기로 자동조정된다.(가장 큰 목차가 '=' 2개)
 3. 조정된 파일 output.txt가 생성된다.
+
 ----------------------------------------------------------------
 # English
 namu.wiki headings size adjustment tool "namuGardener"
