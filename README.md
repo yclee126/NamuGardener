@@ -23,6 +23,13 @@ CodeBlocks로 만들고 컴파일 하였습니다.
 * 함수 다듬기
 
 ----------------------------------------------------------------
+# English
+namu.wiki headings size adjustment tool
+
+The code is complicated, but it works flawlessly.
+
+Made and compiled with CodeBlocks.
+
 
 ## Features
 * Headings size adjustment
