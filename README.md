@@ -1,5 +1,5 @@
 # NamuGardener
-나무위키 목차 크기 조정 프로그램 (namu.wiki headings size adjustment tool)
+나무위키 목차 크기 조정 프로그램 입니다.
 
 빈틈없이 작동하지만 현재 코드가 복잡합니다.
 
