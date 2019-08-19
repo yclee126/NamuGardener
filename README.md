@@ -1,5 +1,5 @@
 # NamuGardener
-나무위키 목차 크기 조정 프로그램 (namu.wiki heading size adjustment tool)
+나무위키 목차 크기 조정 프로그램 (namu.wiki headings size adjustment tool)
 
 빈틈없이 작동하지만 현재 코드가 복잡합니다.
 
@@ -25,7 +25,7 @@ CodeBlocks로 만들고 컴파일 하였습니다.
 ----------------------------------------------------------------
 
 ## Features
-* Heading size adjustment
+* Headings size adjustment
   * Auto adj.
   * manual adj.
 * faulty markup detection
@@ -34,5 +34,5 @@ CodeBlocks로 만들고 컴파일 하였습니다.
 1. Make input.txt
 2. Launch the program and type adjustment number
    * Positive number adds '=', Negative number subtracts '='
-   * Type '0' to adjust automatically (two '='s on the largest heading)
+   * Type '0' to adjust automatically (two '='s on the largest headings)
 3. Adjusted file output.txt will be created
