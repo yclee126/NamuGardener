@@ -1,5 +1,5 @@
 # NamuGardener
-나무위키 목차 크기 조정 프로그램 (namu.wiki index size adjustment tool)
+나무위키 목차 크기 조정 프로그램 (namu.wiki heading size adjustment tool)
 
 빈틈없이 작동하지만 현재 코드가 복잡합니다.
 
@@ -25,7 +25,7 @@ CodeBlocks로 만들고 컴파일 하였습니다.
 ----------------------------------------------------------------
 
 ## Features
-* Index size adjustment
+* Heading size adjustment
   * Auto adj.
   * manual adj.
 * faulty markup detection
