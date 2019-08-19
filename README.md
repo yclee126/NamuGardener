@@ -3,7 +3,7 @@
 
 빈틈없이 작동하지만 현재 코드가 복잡합니다.
 
-CodeBlocks로 만들고 컴파일 하였습니다.
+CodeBlocks로 만들었습니다.
 
 ## 기능
 * 목차 크기 조정
@@ -28,7 +28,7 @@ namu.wiki headings size adjustment tool "namuGardener"
 
 The code is complicated, but it works flawlessly.
 
-Made and compiled with CodeBlocks.
+Made with CodeBlocks.
 
 
 ## Features
