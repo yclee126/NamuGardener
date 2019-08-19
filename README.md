@@ -21,3 +21,18 @@ CodeBlocks로 만들고 컴파일 하였습니다.
 ## TODO
 * 변수 이름 수정
 * 함수 다듬기
+
+----------------------------------------------------------------
+
+## Features
+* Index size adjustment
+  * Auto adj.
+  * manual adj.
+* faulty markup detection
+
+## How to use
+1. Make input.txt
+2. Launch the program and type adjustment number
+   * Positive number adds '=', Negative number subtracts '='
+   * Type '0' to adjust automatically (two '='s on the largest heading)
+3. Adjusted file output.txt will be created
